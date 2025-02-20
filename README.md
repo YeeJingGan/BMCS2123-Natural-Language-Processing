@@ -1,6 +1,6 @@
 # BMCS2123-Natural-Language-Processing
 
-**Course Objective:**  
+**Course Objective**  
 Students will learn natural language processing concepts, including Natural Language Understanding (NLU) and Natural Language Generation (NLG).
 
 **Project Focus**  
